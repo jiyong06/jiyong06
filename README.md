@@ -20,7 +20,7 @@
   <br>
 </div>
 
-<div align=center><h1>⚒️ TOOLS</h1></div>
+<div align=center><h1>🛠️ TOOLS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
@@ -32,8 +32,9 @@
   <br>
 </div>
 
+<div align=center><h1>⭐️ STARS</h1></div>
 <div align=center>
-  <br>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyong06&show_icons=true&theme=dark)
 
 </div>
