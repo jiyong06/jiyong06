@@ -47,8 +47,8 @@
 </div>
 
 <a href="https://www.instagram.com/park_.jiyong/">    
-  <img src="http://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/park_.jiyong/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="http://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/park_.jiyong/"/>
 </a> 
 <a href="mailto:gdragon6642@gmail.com"> 
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gdragon6642@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=gdragon6642@gmail.com"/>
 </a>
