@@ -15,7 +15,7 @@
 <div align=center><h1>📂 CAREER</h1></div>
 </div>
 
-* 서울로봇고등학교🏫 재학 중
+* 서울로봇고등학교 재학 중 🏫
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -45,3 +45,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <br>
 </div>
+
+<a href="https://www.instagram.com/park_.jiyong/">    
+  <img src="http://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/park_.jiyong/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
+<a href="mailto:gdragon6642@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gdragon6642@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
