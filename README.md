@@ -32,4 +32,4 @@
   <br>
 </div>
 
-github-readme-stats.vercel.app/api?username={jiyonh06}&show_icons=true&theme=dark
+github-readme-stats.vercel.app/api?username={jiyong06}&show_icons=true&theme=dark
