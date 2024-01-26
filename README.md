@@ -1,8 +1,10 @@
 <div style="text-align:center">
 <h1>Hi there, I'm JIYONG PARK 👋</h1> <br>
+<h1>안녕하세요, 저는 박지용입니다 👋</h1>
 </div>
 
 ### I'm APP DEVELOPER 📱
+### 저는 앱 개발자 입니다 📱
 
 <div align="center">
   
@@ -13,7 +15,7 @@
 <div align=center><h1>📂 CAREER</h1></div>
 </div>
 
-*서울로봇고등학교 재학 중
+* 서울로봇고등학교 재학 중
 
 <div align=center><h1>📚 STACKS</h1></div>
 
