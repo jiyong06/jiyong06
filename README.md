@@ -1,6 +1,6 @@
 <div style="text-align:center">
 <h1>Hi there, I'm JIYONG PARK 👋</h1> <br>
-<div>
+</div>
 ### I'm APP DEVELOPER 📱
 <div align="center">
   
