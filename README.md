@@ -1,5 +1,6 @@
 <div style="text-align:center">
-<h1>Hi there, I'm JIYONG PARK 👋</h1> 
+<h1>Hi there, I'm JIYONG PARK 👋</h1> <br>
+<h1>I'm APP DEVELOPER 📱</h1>
 <div>
 <div align="center">
   
@@ -7,10 +8,10 @@
 |--|--|
 </div>
 
-<div style="text-align:center">
-<h1>App Developer</h1>
-### *서울로봇고등학교 재학 중
+<div align=center><h1>📂 CAREER</h1></div>
+*서울로봇고등학교 재학 중
 </div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
