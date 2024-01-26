@@ -1,4 +1,4 @@
-### Hi there, i'm JIYONG PARK 👋 
+### Hi there, I'm JIYONG PARK 👋 
 
 #### App Developer
 * 서울로봇고등학교 재학 중
