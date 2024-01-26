@@ -31,3 +31,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <br>
 </div>
+
+github-readme-stats.vercel.app/api?username={jiyonh06}&show_icons=true&theme=dark
