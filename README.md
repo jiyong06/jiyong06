@@ -16,6 +16,7 @@
 </div>
 
 * 서울로봇고등학교 설계과 재학 중 🏫
+* 서울로봇고등학교 프로그래밍 동아리 SPAM 🥓
 
 <div align=center><h1>📚 STACKS</h1></div>
 
